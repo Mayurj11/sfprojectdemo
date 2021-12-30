@@ -3,3 +3,4 @@ hello world!
 changes -- added to login
   ::
   --
+  change 6: by teammate on remote master for bug3
