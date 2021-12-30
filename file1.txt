@@ -3,4 +3,8 @@ hello world!
 changes -- added to login
   ::
   --
+
   change 6: by teammate on remote master for bug3
+
+ change 7 :- on local master for WI7
+
